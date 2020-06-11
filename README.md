@@ -1,7 +1,6 @@
 # Capstone
 ## 2020 BUAN 6590 Capstone Project
-_James Neri_
-
+## James Neri
 
 'ScrapeTest.ipynb' is where I have been individually testing lines of code.
 
