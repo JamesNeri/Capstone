@@ -1,5 +1,4 @@
-# Capstone
-## 2020 BUAN 6590 Capstone Project
+# 2020 BUAN 6590 Capstone Project
 ## James Neri
 
 **MLB Batting WAR was downloaded from 'https://www.baseball-reference.com/data/war_daily_bat.txt'**
