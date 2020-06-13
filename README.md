@@ -17,4 +17,4 @@
 **'NHL_Goalie_Data_Code' is the notebook in which I scraped the stats for goalies since 1960.**
 - Their stats are saved as the CSV titled 'NHL_Goalie_Data'
 
-* All CSVs are stored in the folder titled 'Data'
+_All CSVs are stored in the folder titled 'Data'_
