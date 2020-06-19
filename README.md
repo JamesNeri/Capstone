@@ -1,13 +1,13 @@
 # 2020 BUAN 6590 Capstone Project
 ## James Neri 
 ### Contents
-    1. _All CSVs are stored in the folder titled 'Data'_
-    2. _All EDAs are stored in the folder titled 'EDA HTML Files'_
-    3. _All EDA notebooks are stored in the folder titled 'EDA Notebooks'
-    4. _Data (initial data, intial cleaning, and pipeline processed data) is stored in the folder titled 'Data'_
-    5. _Models will be stored in the folder titles 'Multiple Linear Regression Notebooks'._
-    6. _Pipeline notebooks used to process the data are stored in their respective folder (Pipeline 1, Pipeline 2, Pipeline 3, Pipeline 4)._
-
+1. _All CSVs are stored in the folder titled 'Data'_
+2. _All EDAs are stored in the folder titled 'EDA HTML Files'_
+3. _All EDA notebooks are stored in the folder titled 'EDA Notebooks'
+4. _Data (initial data, intial cleaning, and pipeline processed data) is stored in the folder titled 'Data'_
+5. _Models will be stored in the folder titles 'Multiple Linear Regression Notebooks'._
+6. _Pipeline notebooks used to process the data are stored in their respective folder (Pipeline 1, Pipeline 2, Pipeline 3, Pipeline 4)._
+---
 **MLB Batting Data was downloaded from 'https://www.baseball-reference.com/data/war_daily_bat.txt'**
 - The corresponding CSV is titled 'MLB_Batting_Data'
 - The corresponding Explatory Data Analysis is titled 'BattingEDA.html'
