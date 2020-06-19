@@ -22,4 +22,5 @@
 - The corresponding Explatory Data Analysis is titled 'GoaliesEDA.html'
 
 _All CSVs are stored in the folder titled 'Data'_
+
 _All EDAs are stored in the folder titled 'EDA_files'_
